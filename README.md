@@ -1,2 +1,3 @@
 # hello-git
-Use the recipies images for websites
+
+Hello! Hd images for cool websites, distribute, like and share!
